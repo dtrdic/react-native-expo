@@ -1,4 +1,4 @@
-package com.reactnativeexpo;
+package io.codemagic.dtrdic5;
 
 import android.os.Build;
 import android.os.Bundle;
