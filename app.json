@@ -1,10 +1,16 @@
 {
   "expo": {
-    "name": "ReactNativeExpo",
-    "slug": "ReactNativeExpo",
+    "name": "codemagicSample",
+    "slug": "codemagicSample",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "io.codemagic.dtrdic5"
+    },
+    "android": {
+      "package": "io.codemagic.dtrdic5"
+    }
   }
 }
