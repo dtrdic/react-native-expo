@@ -112,6 +112,7 @@ android {
     ndkVersion rootProject.ext.ndkVersion
 
     compileSdkVersion rootProject.ext.compileSdkVersion
+    namespace "io.codemagic.dtrdic5"
 
     defaultConfig {
         applicationId "io.codemagic.dtrdic5"
